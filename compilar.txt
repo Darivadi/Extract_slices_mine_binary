@@ -1,0 +1,1 @@
+gcc -O3 main_extract_binary.c -lm -o main_extract.x
